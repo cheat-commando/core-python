@@ -1,6 +1,5 @@
 """Restaurant rating lister."""
 
-
 # put your code here
 
 import random, os, sys
